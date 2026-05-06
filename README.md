@@ -20,34 +20,27 @@
 
 ---
 
-### Selected work
+### Highlights
 
-<table>
-<tr valign="top">
-<td width="50%">
+#### 🎓 Graduation project — capstone web app
+Design → build → deploy: UX flow, cohesive UI surface, shipped front‑end on GitHub Pages.  
+[![Live](https://img.shields.io/badge/Live%20demo-6366F1?style=flat&logo=googlechrome&logoColor=white)](https://wilo101.github.io/GraduationProject/)
+[![Code](https://img.shields.io/badge/Code-0F172A?style=flat&logo=github&logoColor=white)](https://github.com/wilo101/GraduationProject)
 
-**1 · Graduation project (capstone web app)**  
-End-to-end product build: UX flow, cohesive UI surface, engineered front‑end deployed to Pages.  
-→ [**Live**](https://wilo101.github.io/GraduationProject/) · [**Code**](https://github.com/wilo101/GraduationProject)
+#### 🌿 Bloom — botanical dark‑glass UI (multi‑route)
+Layout + typography + motion discipline, packaged as a clean product UI concept.  
+[![Live](https://img.shields.io/badge/Live%20demo-22C55E?style=flat&logo=googlechrome&logoColor=white)](https://wilo101.github.io/bloom/)
+[![Code](https://img.shields.io/badge/Code-0F172A?style=flat&logo=github&logoColor=white)](https://github.com/wilo101/bloom)
 
-**2 · Velorah**  
-Cinematic studio marketing site · React · Vite · Tailwind · shipped to Pages with workflow polish.  
-→ [**Live**](https://wilo101.github.io/velorah/) · [**Code**](https://github.com/wilo101/velorah)
+#### 🖤 Mindloop — monochrome landing concept
+Dark, high‑contrast landing engineered for clarity, rhythm, and conversion layout.  
+[![Live](https://img.shields.io/badge/Live%20demo-06B6D4?style=flat&logo=googlechrome&logoColor=white)](https://wilo101.github.io/mindloop/)
+[![Code](https://img.shields.io/badge/Code-0F172A?style=flat&logo=github&logoColor=white)](https://github.com/wilo101/mindloop)
 
-**3 · Mindloop**  
-Dark, monochrome SaaS‑style landing — UI concept engineered for clarity and rhythm (Vite/Tailwind/Motion).  
-→ [**Live**](https://wilo101.github.io/mindloop/) · [**Code**](https://github.com/wilo101/mindloop)
-
-</td>
-<td width="50%">
-
-**4 · Bloom**  
-Botanical glass multi‑route product UI — disciplined layout, typography, motion, GitHub Pages.  
-→ [**Live**](https://wilo101.github.io/bloom/) · [**Code**](https://github.com/wilo101/bloom)
-
-</td>
-</tr>
-</table>
+#### 🎬 Velorah — cinematic studio site
+Brand-forward marketing surface with structure and production-ready polish.  
+[![Live](https://img.shields.io/badge/Live%20demo-6366F1?style=flat&logo=googlechrome&logoColor=white)](https://wilo101.github.io/velorah/)
+[![Code](https://img.shields.io/badge/Code-0F172A?style=flat&logo=github&logoColor=white)](https://github.com/wilo101/velorah)
 
 ---
 
