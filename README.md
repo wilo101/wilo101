@@ -6,9 +6,9 @@
 
 ### Abdelrahman Walaa (Wilo)
 
-**Product-focused Flutter developer & UI/UX designer** building end-to-end experiences: **UX flows → UI systems → shipped apps**.
+Flutter Developer · Frontend Developer · UI/UX Designer
 
-[<img src="https://skillicons.dev/icons?i=flutter,dart,figma,firebase,react,vite,tailwindcss,js,git,github&theme=light&perline=10" alt="Skills" />](https://skillicons.dev)
+[<img src="https://skillicons.dev/icons?i=flutter,dart,figma,firebase,react,vite,tailwindcss,js,ts,git,github&theme=light&perline=11" alt="Skills" />](https://skillicons.dev)
 
 <br />
 
@@ -46,5 +46,6 @@ Brand-forward marketing surface with structure and production-ready polish.
 
 ### Right now
 
-- Hardening **Graduation Project** *(deploy QA, UX edge cases)*.  
-- Prototyping/experiment landings *(React/Vite/Tailwind + Pages)* aligned with Flutter product work streams.
+- Shipping Flutter mobile apps *(UX → implementation)*  
+- Building frontend web projects *(React, Vite, Tailwind)*  
+- Open to **Flutter**, **Frontend**, and **React Native** roles
