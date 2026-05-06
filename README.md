@@ -20,7 +20,7 @@
 
 ---
 
-### Featured work
+### Selected work
 
 <table>
 <tr valign="top">
@@ -49,22 +49,9 @@ Botanical glass multi‑route product UI — disciplined layout, typography, mot
 </tr>
 </table>
 
-<sub>More live demos: **[Loaf Story](https://wilo101.github.io/Loaf-Story/)** · **[Résumé web](https://wilo101.github.io/Abdelrahman-TahaCV/)**</sub>
-
 ---
 
 ### Right now
 
 - Hardening **Graduation Project** *(deploy QA, UX edge cases)*.  
 - Prototyping/experiment landings *(React/Vite/Tailwind + Pages)* aligned with Flutter product work streams.
-
----
-
-### GitHub pulse
-
-<p align="left">
-<img height="155" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wilo101&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&locale=en&hide_border=true&border_radius=14&bg_color=00000000&text_color=334155&icon_color=06B6D4&title_color=6366F1&line_height=22" />
-<img height="155" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilo101&hide_title=true&layout=compact&langs_count=6&hide_border=true&border_radius=14&bg_color=00000000&title_color=6366F1&text_color=334155" />
-</p>
-
-<sub>Quiet metrics — recruiters land on **Featured work** first.</sub>
