@@ -45,15 +45,11 @@ Dark, monochrome SaaS‑style landing — UI concept engineered for clarity and 
 Botanical glass multi‑route product UI — disciplined layout, typography, motion, GitHub Pages.  
 → [**Live**](https://wilo101.github.io/bloom/) · [**Code**](https://github.com/wilo101/bloom)
 
-**5 · VIRALMEDIA**  
-AI web‑agency positioning page — funnel‑ready layout, expressive brand system on the web.  
-→ [**Live**](https://wilo101.github.io/viralmedia/) · [**Code**](https://github.com/wilo101/viralmedia)
-
 </td>
 </tr>
 </table>
 
-<sub>Extras with live previews: **[Loaf Story](https://wilo101.github.io/Loaf-Story/)** · **[Résumé web](https://wilo101.github.io/Abdelrahman-TahaCV/)**</sub>
+<sub>More live demos: **[Loaf Story](https://wilo101.github.io/Loaf-Story/)** · **[Résumé web](https://wilo101.github.io/Abdelrahman-TahaCV/)**</sub>
 
 ---
 
