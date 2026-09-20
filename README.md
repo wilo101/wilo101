@@ -1,8 +1,10 @@
+**Language:** English | [العربية](./README.ar.md)
+
 <div align="center">
 
 <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6366F1,60:22C55E,100:06B6D4&section=header&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=780&lines=Flutter+%E2%80%A2+UI%2FUX+%E2%80%A2+Design-led+products;From+flows+and+systems+to+production+builds)](https://github.com/wilo101)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=780&lines=Flutter+•+UI%2FUX+•+Design-led+products;From+flows+and+systems+to+production+builds)](https://github.com/wilo101)
 
 ### Abdelrahman Walaa (Wilo)
 
