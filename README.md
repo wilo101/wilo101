@@ -1,4 +1,4 @@
-**Language:** English | [العربية](./README.ar.md)
+
 
 <div align="center">
 
@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=900&color=6366F1&center=true&vCenter=true&width=780&lines=Flutter+•+UI%2FUX+•+Design-led+products;From+flows+and+systems+to+production+builds)](https://github.com/wilo101)
 
-### Abdelrahman Walaa (Wilo)
+### Abdelrahman Walaa
 
-Flutter Developer · Frontend Developer · UI/UX Designer
+Mobile App Developer · Flutter & React Native · Firebase & AI
 
 [<img src="https://skillicons.dev/icons?i=flutter,dart,figma,firebase,react,vite,tailwindcss,js,ts,git,github&theme=light&perline=11" alt="Skills" />](https://skillicons.dev)
 
